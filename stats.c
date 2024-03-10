@@ -28,7 +28,6 @@
 #define SIZE (40)
 
 void main() {
-
   unsigned char test[SIZE] = { 34, 201, 190, 154,   8, 194,   2,   6,
                               114, 88,   45,  76, 123,  87,  25,  23,
                               200, 122, 150, 90,   92,  87, 177, 244,
@@ -37,6 +36,16 @@ void main() {
 
   /* Other Variable Declarations Go Here */
   /* Statistics and Printing Functions Go Here */
+  print_statistics()
+    print_array()
+    find_median()
+  find_mean() 
+find_maximum()
+  find_minimum()
+sort_array()
+  printf
+    
+    
 
 }
 
